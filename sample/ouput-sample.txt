@@ -1,0 +1,11 @@
+Problem 01
+	Part 1: 69912
+	Part 2: 208180
+
+Problem 02
+	Part 1: 1757
+	Part 2: 2950
+
+Problem 03
+	Part 1: 5144286
+	Part 2: 10229191267339
